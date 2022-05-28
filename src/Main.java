@@ -7,7 +7,7 @@ public class Main {
         System.out.println();
         System.out.println("Dear passenger!");
         System.out.println();
-        System.out.println("Сongratulations you have accumulated: "+ miles +" bonus miles");
+        System.out.println("Сongratulations you have accumulated: " + miles + " bonus miles");
         System.out.println();
         System.out.println();
         System.out.println("Thank you for choosing our airline!=)");
